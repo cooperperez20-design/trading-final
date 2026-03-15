@@ -1,0 +1,4 @@
+ccxt
+anthropic
+pandas
+pandas-ta
